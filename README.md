@@ -22,7 +22,6 @@ class BackendDeveloper {
     title: string = "Senior Backend Developer";
     location: string = "Morocco 🇲🇦";
     workingOn: string[] = [
-        "Scalable Microservices",
         "Real-time Systems",
         "High-Performance APIs"
     ];
@@ -49,7 +48,7 @@ class BackendDeveloper {
 | **Real-time Systems** | `Socket.io` • `WebSockets` • `Event-Driven Architecture` |
 | **Database & Caching** | `MongoDB` • `Mongoose` • `Redis` • `Data Modeling` |
 | **DevOps & CI/CD** | `Docker` • `GitLab CI` • `Nginx` • `Linux` |
-| **System Architecture** | `Microservices` • `API Gateway` • `Load Balancing` |
+| **System Architecture** | `API Gateway` • `Load Balancing` |
 | **Development Practices** | `Clean Code` • `TDD` • `Code Review` • `Documentation` |
 
 ## 📊 This Week's Development Breakdown
