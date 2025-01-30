@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%F0%9F%9A%80+Crafting+Scalable+SaaS;%E2%9A%A1+Optimizing+High-Performance+Systems;%F0%9F%94%A7+Building+Real-time+Applications)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nexus-aissam&style=for-the-badge&color=blue)](https://github.com/nexus-aissam)
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/nexus-aissam)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://paypal.me/aissamirhir)
 [![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/nexus-aissam)
 
 </div>
@@ -332,7 +332,7 @@ mindmap
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor_my_Work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nexus-aissam)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aissam.nexus)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ighirissam100@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aissamirhir)
 
 ### 🏆 Sponsor Benefits
 - 🌟 Early access to my private repositories
