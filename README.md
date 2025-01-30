@@ -77,6 +77,7 @@ class BackendDeveloper {
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-004B8D?style=for-the-badge&logo=clockify&logoColor=white)
 
 ### Database & Cache
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -91,7 +92,6 @@ class BackendDeveloper {
 ### Cloud & Process Management
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Contabo](https://img.shields.io/badge/Contabo-FF6C37?style=for-the-badge&logo=server&logoColor=white)
-![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-004B8D?style=for-the-badge&logo=clockify&logoColor=white)
 
 </div>
 
@@ -217,14 +217,11 @@ mindmap
 [![Bluesky](https://img.shields.io/badge/bluesky-%230285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/aissamnexus.bsky.social)
 
 ### 📱 Quick Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nexus-aissam.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ighirissam100@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nexus-aissam)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@nexus-aissam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://aissamirhir.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aissamirhir@gmail.com)
 
 ### 💻 Developer Profiles
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexus-aissam)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nexus-aissam)
 [![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nexus-aissam)
 
 </div>
@@ -244,7 +241,7 @@ mindmap
 
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor_my_Work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nexus-aissam)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aissam.nexus)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ighirissam100@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aissamirhir)
 
 ### 🏆 Sponsor Benefits
 - 💡 Direct consultation & support
