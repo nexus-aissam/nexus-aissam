@@ -11,7 +11,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=nexus-aissam&style=for-the-badge&color=blue)](https://github.com/nexus-aissam)
 [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://paypal.me/aissamirhir)
 [![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/nexus-aissam)
-[![Portfolio]([https://aissamirhir.com](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white))](https://aissamirhir.com)
+[![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)](https://aissamirhir.com)
+
 
 </div>
 
