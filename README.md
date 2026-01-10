@@ -109,36 +109,6 @@ Contributing to the developer community with tools, packages, and libraries.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<!-- Activity Graph -->
-<a href="https://github.com/nexus-aissam">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus-aissam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</a>
-
-<!-- Profile Details - Year Overview -->
-<a href="https://github.com/nexus-aissam">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nexus-aissam&theme=tokyonight" alt="Profile Details" />
-</a>
-
-<!-- Stats Cards Row -->
-<a href="https://github.com/nexus-aissam">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nexus-aissam&theme=tokyonight"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nexus-aissam&theme=tokyonight&utcOffset=1"/>
-</a>
-
-<!-- Language Cards Row -->
-<a href="https://github.com/nexus-aissam">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nexus-aissam&theme=tokyonight"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nexus-aissam&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
