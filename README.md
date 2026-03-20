@@ -19,7 +19,7 @@
 
 Backend-focused developer based in **Morocco** with **+4 years** of experience building scalable SaaS platforms, real-time applications, and high-performance APIs. I work across the **Node.js** and **Bun** ecosystems and I'm passionate about clean architecture, modern runtimes, and open source.
 
-I use **AI tools strategically** (Copilot, Claude, ChatGPT) with strong prompt engineering practices to ship high-quality code faster.
+I use **AI tools strategically** with strong prompt engineering practices to ship high-quality code faster.
 
 ```typescript
 const aissam = {
