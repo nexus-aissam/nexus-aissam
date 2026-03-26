@@ -106,18 +106,6 @@ const aissam = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-aissam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86C1&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexus-aissam&theme=tokyonight&hide_border=true&background=0D1117&ring=2E86C1&fire=2E86C1&currStreakLabel=2E86C1"/>
-</div>
-
----
-
 <div align="center">
 
 ### Let's Connect
